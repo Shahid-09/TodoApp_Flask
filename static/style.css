@@ -1,0 +1,18 @@
+.mycustom {
+    background-color: #9e71ff;
+    padding: 15px;
+}
+
+.container {
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.rounded-table {
+    border-radius: 10px; 
+    overflow: hidden; 
+}
+
+
+
+
